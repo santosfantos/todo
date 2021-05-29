@@ -1,0 +1,45 @@
+.form {
+  width:  40rem;
+  margin: 2rem auto;
+  
+  }
+
+.actions {
+  display:         flex;
+  justify-content: space-between;
+  width:           100%;
+  }
+
+.form label {
+  display:       block;
+  font-weight:   bold;
+  margin-bottom: 0.5rem;
+  }
+
+.form input {
+  display:                    block;
+  width:                      100%;
+  font:                       inherit;
+  font-size:                  1.5rem;
+  padding:                    0.5rem 0rem 0rem 0.5rem;
+  border-radius:              4px;
+  background-color:           #f7f5ef;
+  border:                     none;
+  border-bottom:              2px solid #494844;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius:  0;
+  margin-bottom:              0.5rem;
+  }
+
+.form select {
+  font:                       inherit;
+  font-size:                  1rem;
+  padding:                    0.5rem;
+  border-radius:              4px;
+  background-color:           #f7f5ef;
+  border:                     none;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius:  0;
+  box-shadow:                 0 1px 4px rgba(0, 0, 0, 0.2);
+  cursor:                     pointer;
+  }

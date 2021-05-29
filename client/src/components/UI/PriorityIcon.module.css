@@ -1,0 +1,17 @@
+.square {
+  width:        1rem;
+  height:       1rem;
+  margin-right: 0.5rem;
+  }
+
+.high {
+  background-color: red;
+  }
+
+.medium {
+  background-color: #e8e803;
+  }
+
+.low {
+  background-color: green;
+  }
